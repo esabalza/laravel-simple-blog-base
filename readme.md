@@ -13,7 +13,7 @@
  * Post & User CRUD
  * Create and Edit views
  * Tag syncing for Post & User model (Create & Save)
-
+ * PHPUnit feature tests
  
  GET domain.test/admin/posts || table showing all the post
  POST domain.test/admin/posts || create the post
